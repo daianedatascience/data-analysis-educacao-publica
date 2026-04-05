@@ -1,8 +1,8 @@
 library(dplyr)
 library(readr)
 
-# 1. Definindo as colunas que queremos 
-# Vamos ler apenas: ID_ESCOLA, NO_MUNICIPIO, TP_DEPENDENCIA, NO_ENTIDADE, IN_INTERNET
+# 1. Definindo as colunas que queremos analisar
+#  ler apenas: ID_ESCOLA, NO_MUNICIPIO, TP_DEPENDENCIA, NO_ENTIDADE, IN_INTERNET
 colunas <- cols_only(
   NO_MUNICIPIO = col_character(),
   TP_DEPENDENCIA = col_double(),
@@ -22,5 +22,5 @@ recife_final <- escolas_2025_reduzido %>%
 print("Dados de Recife carregados com sucesso!")
 head(recife_final)
 
-# 5. Criando o arquivo leve para o seu Dashboard
+# 5. Criando o  Dashboard
 write.csv(recife_final, "recife_2025_pronto.csv", row.names = FALSE)
