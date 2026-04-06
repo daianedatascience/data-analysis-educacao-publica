@@ -32,7 +32,7 @@ Otimizar a tomada de decisão da equipe de parcerias do Instituto, transformando
 - `/scripts`: Código R para limpeza, filtragem e cruzamento de dados.
 - `/queries`: Consultas SQL utilizadas na exploração inicial.
 
----## 📌 Documentação completa no Notion
+ 📌 Documentação completa no Notion
 
 A documentação interativa do case, com navegação por blocos, diagnóstico de Recife, dashboard no Looker Studio e OKRs, está disponível no link abaixo:
 
