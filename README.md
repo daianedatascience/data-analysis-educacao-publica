@@ -11,7 +11,7 @@ Otimizar a tomada de decisão da equipe de parcerias do Instituto, transformando
 - **Engenharia de Dados:** Linguagem **R** para processamento de Big Data.
 - **Tratamento:** Bibliotecas `dplyr` e `readr` (otimização de memória via *Column Projection*).
 - **Extração & Análise:** SQL (Google BigQuery).
-- **Visualização:** Looker Studio (Dashboard Interativo).
+- **Visualização:** Looker Studio (Dashboard Interativo). 
 - **Documentação:** GitHub e Notion.
 
 ## 📈 Indicadores Criados para o Case
@@ -38,4 +38,4 @@ A documentação interativa do case, com navegação por blocos, diagnóstico de
 
 🔗 [Inteligência de Dados e Monitoramento de Redes](https://www.notion.so/Intelig-ncia-de-Dados-e-Monitoramento-de-Redes-9bf93131f20c83f6bd020169320d89f0)
 
-**Candidata:** Daiane Menezes | Analista de Dados e Monitoramento
+** Daiane Menezes | Analista de Dados e Monitoramento
