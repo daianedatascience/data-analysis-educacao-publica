@@ -32,6 +32,10 @@ Otimizar a tomada de decisão da equipe de parcerias do Instituto, transformando
 - `/scripts`: Código R para limpeza, filtragem e cruzamento de dados.
 - `/queries`: Consultas SQL utilizadas na exploração inicial.
 
----
+---## 📌 Documentação completa no Notion
+
+A documentação interativa do case, com navegação por blocos, diagnóstico de Recife, dashboard no Looker Studio e OKRs, está disponível no link abaixo:
+
+🔗 [Inteligência de Dados e Monitoramento de Redes](https://www.notion.so/Intelig-ncia-de-Dados-e-Monitoramento-de-Redes-9bf93131f20c83f6bd020169320d89f0)
 
 **Candidata:** Daiane Menezes | Analista de Dados e Monitoramento
