@@ -20,9 +20,9 @@ Otimizar a tomada de decisão da equipe de parcerias do Instituto, transformando
 - **IEI (Índice de Eficiência de Infraestrutura):** Mapeamento de prontidão tecnológica via Censo 2025 (internet e computadores por aluno).
 - **TCP (Taxa de Compartilhamento de Práticas):** Identificação de escolas farol e cultura de protagonismo, medindo relatos por professor ativo.
 
-## 🚀 Diferenciais Técnicos e Senioridade
+## 🚀 Diferenciais Técnicos e Analíticos
 
-- **Dados em Tempo Real (Censo 2025):** Processamento da base mais recente do INEP, garantindo análises atualizadas.
+- **Dados do Censo Escolar 2025:** Processamento da base mais recente do INEP, garantindo análises atualizadas.
 - **Eficiência Computacional:** Scripts R otimizados para lidar com datasets de grande escala em ambientes com restrição de hardware.
 - **Visão de Negócio:** Tradução de dados complexos em insumos claros para que a equipe de parcerias saiba onde e como agir (priorização de visitas e suporte).
 
